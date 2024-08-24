@@ -1,0 +1,11 @@
+{
+    font-family: Arial;
+    font-size:16px;
+}
+body {
+    background-color:white;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 3px rgba(rgb(10, 7, 141), rgb(11, 60, 151), blue, alpha);
+}
